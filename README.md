@@ -1,4 +1,27 @@
-## Hi there 👋
+## Hi there I'm Prashant Baldha 👋
+
+(he/him)
+
+Thanks for stopping by!
+
+I am an experienced WordPress Developer. I am regularly contributing to WordPress.
+
+WordPress org badges achieved at https://profiles.wordpress.org/pmbaldha/:
+
+- **Core** Contributor
+- Documentation Contributor
+- **Hosting** Contributor
+- Meta Contributor
+- Photo Contributor
+- **Plugin Developer**
+- **Theme Developer**
+- Tide Contributor
+- Training Contributor
+- Translation Contributor
+- WordPress.tv Contributor
+- **WP-CLI** Contributor
+
+<iframe src="https://github.com/sponsors/pmbaldha/card" title="Sponsor PRashant Baldha's WordPress contribution" height="225" width="600" style="border: 0;"></iframe>
 
 <!--
 **pmbaldha/pmbaldha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
