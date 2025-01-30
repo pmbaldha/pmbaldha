@@ -4,7 +4,7 @@
 
 Thanks for stopping by!
 
-I am an experienced WordPress Developer. I am regularly contributing to WordPress.
+I am an experienced WordPress Developer. I am regularly contribute to WordPress.
 
 WordPress org badges achieved at https://profiles.wordpress.org/pmbaldha/:
 
