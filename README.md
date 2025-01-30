@@ -6,17 +6,17 @@ Thanks for stopping by!
 
 I am an experienced WordPress Developer. I regularly contribute to WordPress. 💻
 
-WordPress org badges achieved at https://profiles.wordpress.org/pmbaldha/:
+WordPress org badges achieved by me at https://profiles.wordpress.org/pmbaldha/:
 
 - **Core** Contributor
 - Documentation Contributor
 - **Hosting** Contributor
-- Meta Contributor
+- **Meta** Contributor
 - Photo Contributor
 - **Plugin Developer**
 - **Theme Developer**
 - Tide Contributor
-- Training Contributor
+- **Training** Contributor
 - Translation Contributor
 - WordPress.tv Contributor
 - **WP-CLI** Contributor
