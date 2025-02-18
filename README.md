@@ -11,6 +11,7 @@ WordPress org badges achieved by me at https://profiles.wordpress.org/pmbaldha/:
 - **Core** Contributor
 - Documentation Contributor
 - **Hosting** Contributor
+- Meetup Organizer
 - **Meta** Contributor
 - Photo Contributor
 - **Plugin Developer**
