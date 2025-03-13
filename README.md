@@ -15,10 +15,14 @@ WordPress org badges achieved by me at https://profiles.wordpress.org/pmbaldha/:
 - **Meta** Contributor
 - Photo Contributor
 - **Plugin Developer**
+- Pattern Author
+- Photo Contributor
 - **Theme Developer**
 - Tide Contributor
 - **Training** Contributor
 - Translation Contributor
+- Translation Editor
+- WordCamp Organizer
 - WordPress.tv Contributor
 - **WP-CLI** Contributor
 
