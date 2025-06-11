@@ -8,23 +8,8 @@ I am an experienced WordPress Developer. I regularly contribute to WordPress. ðŸ
 
 WordPress org badges achieved by me at https://profiles.wordpress.org/pmbaldha/:
 
-- **Core** Contributor
-- Documentation Contributor
-- **Hosting** Contributor
-- Meetup Organizer
-- **Meta** Contributor
-- Photo Contributor
-- **Plugin Developer**
-- Pattern Author
-- Photo Contributor
-- **Theme Developer**
-- Tide Contributor
-- **Training** Contributor
-- Translation Contributor
-- Translation Editor
-- WordCamp Organizer
-- WordPress.tv Contributor
-- **WP-CLI** Contributor
+[![Prashant Baldha's WordPress Activity](https://www.cardpress.us/card?username=pmbaldha&badges=true)](https://www.cardpress.us/)
+
 
 
 <!--
