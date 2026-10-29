@@ -8,7 +8,6 @@ I am an experienced WordPress Developer. I regularly contribute to WordPress. ðŸ
 
 WordPress org badges achieved by me at https://profiles.wordpress.org/pmbaldha/:
 
-[![Prashant Baldha's WordPress Activity](https://www.cardpress.us/card?username=pmbaldha&badges=true)](https://www.cardpress.us/)
 
 
 
